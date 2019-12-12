@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Interfaces">
+      <UniqueIdentifier>{e8b11561-725e-4939-9bec-54fb207ed11d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Graphs">
+      <UniqueIdentifier>{3b3484bf-d63f-4395-a3bf-08aa93159d2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Components">
+      <UniqueIdentifier>{c35e1762-a5f1-4d00-9034-14e26a15aaf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\GraphWalkers">
+      <UniqueIdentifier>{12498db9-514f-4ab5-9ae9-cbb7be0768ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Collections">
+      <UniqueIdentifier>{708745e9-a8d9-4b04-b78b-a7abef89d4ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CFileParser.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="CDSU.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="IVerticesCollection.hpp">
+      <Filter>Файлы заголовков\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="IGraphWalker.hpp">
+      <Filter>Файлы заголовков\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="IGraphComponents.hpp">
+      <Filter>Файлы заголовков\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="IGraph.hpp">
+      <Filter>Файлы заголовков\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="IEdgesCollection.hpp">
+      <Filter>Файлы заголовков\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="CArcGraph.hpp">
+      <Filter>Файлы заголовков\Graphs</Filter>
+    </ClInclude>
+    <ClInclude Include="CListGraph.hpp">
+      <Filter>Файлы заголовков\Graphs</Filter>
+    </ClInclude>
+    <ClInclude Include="CComponentsViaLists.hpp">
+      <Filter>Файлы заголовков\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="CComponentsViaDSU.hpp">
+      <Filter>Файлы заголовков\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="CDFSWalker.hpp">
+      <Filter>Файлы заголовков\GraphWalkers</Filter>
+    </ClInclude>
+    <ClInclude Include="CDSUWalker.hpp">
+      <Filter>Файлы заголовков\GraphWalkers</Filter>
+    </ClInclude>
+    <ClInclude Include="CBFSWalker.hpp">
+      <Filter>Файлы заголовков\GraphWalkers</Filter>
+    </ClInclude>
+    <ClInclude Include="CUMapVCollection.hpp">
+      <Filter>Файлы заголовков\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="CListPairsECollection.hpp">
+      <Filter>Файлы заголовков\Collections</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
