@@ -1,0 +1,176 @@
+anylise0.0
+BFS: Working time of algorithm: 695158 mcs
+DFS: Working time of algorithm: 732112 mcs
+DSU: Working time of algorithm: 373773 mcs
+anylise0.1
+BFS: Working time of algorithm: 681827 mcs
+DFS: Working time of algorithm: 684075 mcs
+DSU: Working time of algorithm: 346079 mcs
+anylise0.2
+BFS: Working time of algorithm: 670390 mcs
+DFS: Working time of algorithm: 684304 mcs
+DSU: Working time of algorithm: 337244 mcs
+anylise0.3
+BFS: Working time of algorithm: 662020 mcs
+DFS: Working time of algorithm: 658824 mcs
+DSU: Working time of algorithm: 344125 mcs
+anylise1.0
+BFS: Working time of algorithm: 1595560 mcs
+DFS: Working time of algorithm: 598833 mcs
+DSU: Working time of algorithm: 357121 mcs
+anylise1.1
+BFS: Working time of algorithm: 619178 mcs
+DFS: Working time of algorithm: 618652 mcs
+DSU: Working time of algorithm: 356818 mcs
+anylise1.2
+BFS: Working time of algorithm: 587097 mcs
+DFS: Working time of algorithm: 577251 mcs
+DSU: Working time of algorithm: 346771 mcs
+anylise1.3
+BFS: Working time of algorithm: 593267 mcs
+DFS: Working time of algorithm: 596022 mcs
+DSU: Working time of algorithm: 339924 mcs
+anylise2.0
+BFS: Working time of algorithm: 547137 mcs
+DFS: Working time of algorithm: 537027 mcs
+DSU: Working time of algorithm: 285745 mcs
+anylise2.1
+BFS: Working time of algorithm: 536598 mcs
+DFS: Working time of algorithm: 520011 mcs
+DSU: Working time of algorithm: 306585 mcs
+anylise2.2
+BFS: Working time of algorithm: 533329 mcs
+DFS: Working time of algorithm: 536189 mcs
+DSU: Working time of algorithm: 293242 mcs
+anylise2.3
+BFS: Working time of algorithm: 587980 mcs
+DFS: Working time of algorithm: 552516 mcs
+DSU: Working time of algorithm: 339217 mcs
+anylise3.0
+BFS: Working time of algorithm: 407734 mcs
+DFS: Working time of algorithm: 409562 mcs
+DSU: Working time of algorithm: 284151 mcs
+anylise3.1
+BFS: Working time of algorithm: 405147 mcs
+DFS: Working time of algorithm: 395457 mcs
+DSU: Working time of algorithm: 285636 mcs
+anylise3.2
+BFS: Working time of algorithm: 473218 mcs
+DFS: Working time of algorithm: 407886 mcs
+DSU: Working time of algorithm: 292882 mcs
+anylise3.3
+BFS: Working time of algorithm: 439845 mcs
+DFS: Working time of algorithm: 424896 mcs
+DSU: Working time of algorithm: 289725 mcs
+anylise4.0
+BFS: Working time of algorithm: 320249 mcs
+DFS: Working time of algorithm: 316754 mcs
+DSU: Working time of algorithm: 290248 mcs
+anylise4.1
+BFS: Working time of algorithm: 388053 mcs
+DFS: Working time of algorithm: 385474 mcs
+DSU: Working time of algorithm: 315094 mcs
+anylise4.2
+BFS: Working time of algorithm: 372912 mcs
+DFS: Working time of algorithm: 303156 mcs
+DSU: Working time of algorithm: 310990 mcs
+anylise4.3
+BFS: Working time of algorithm: 365892 mcs
+DFS: Working time of algorithm: 302272 mcs
+DSU: Working time of algorithm: 302493 mcs
+anylise5.0
+BFS: Working time of algorithm: 328506 mcs
+DFS: Working time of algorithm: 295632 mcs
+DSU: Working time of algorithm: 262546 mcs
+anylise5.1
+BFS: Working time of algorithm: 353669 mcs
+DFS: Working time of algorithm: 313583 mcs
+DSU: Working time of algorithm: 242708 mcs
+anylise5.2
+BFS: Working time of algorithm: 337437 mcs
+DFS: Working time of algorithm: 290153 mcs
+DSU: Working time of algorithm: 247516 mcs
+anylise5.3
+BFS: Working time of algorithm: 333264 mcs
+DFS: Working time of algorithm: 306754 mcs
+DSU: Working time of algorithm: 243296 mcs
+anylise6.0
+BFS: Working time of algorithm: 260928 mcs
+DFS: Working time of algorithm: 260443 mcs
+DSU: Working time of algorithm: 220810 mcs
+anylise6.1
+BFS: Working time of algorithm: 264176 mcs
+DFS: Working time of algorithm: 274063 mcs
+DSU: Working time of algorithm: 222094 mcs
+anylise6.2
+BFS: Working time of algorithm: 261711 mcs
+DFS: Working time of algorithm: 254980 mcs
+DSU: Working time of algorithm: 216628 mcs
+anylise6.3
+BFS: Working time of algorithm: 259584 mcs
+DFS: Working time of algorithm: 247796 mcs
+DSU: Working time of algorithm: 219411 mcs
+anylise7.0
+BFS: Working time of algorithm: 231679 mcs
+DFS: Working time of algorithm: 220202 mcs
+DSU: Working time of algorithm: 213617 mcs
+anylise7.1
+BFS: Working time of algorithm: 239364 mcs
+DFS: Working time of algorithm: 254738 mcs
+DSU: Working time of algorithm: 241438 mcs
+anylise7.2
+BFS: Working time of algorithm: 232176 mcs
+DFS: Working time of algorithm: 256183 mcs
+DSU: Working time of algorithm: 223359 mcs
+anylise7.3
+BFS: Working time of algorithm: 232904 mcs
+DFS: Working time of algorithm: 219365 mcs
+DSU: Working time of algorithm: 226924 mcs
+anylise8.0
+BFS: Working time of algorithm: 178839 mcs
+DFS: Working time of algorithm: 181221 mcs
+DSU: Working time of algorithm: 185526 mcs
+anylise8.1
+BFS: Working time of algorithm: 175762 mcs
+DFS: Working time of algorithm: 177992 mcs
+DSU: Working time of algorithm: 240180 mcs
+anylise8.2
+BFS: Working time of algorithm: 199469 mcs
+DFS: Working time of algorithm: 184125 mcs
+DSU: Working time of algorithm: 194419 mcs
+anylise8.3
+BFS: Working time of algorithm: 184737 mcs
+DFS: Working time of algorithm: 183405 mcs
+DSU: Working time of algorithm: 192250 mcs
+anylise9.0
+BFS: Working time of algorithm: 167756 mcs
+DFS: Working time of algorithm: 186667 mcs
+DSU: Working time of algorithm: 188499 mcs
+anylise9.1
+BFS: Working time of algorithm: 163307 mcs
+DFS: Working time of algorithm: 168327 mcs
+DSU: Working time of algorithm: 214787 mcs
+anylise9.2
+BFS: Working time of algorithm: 180843 mcs
+DFS: Working time of algorithm: 172696 mcs
+DSU: Working time of algorithm: 206405 mcs
+anylise9.3
+BFS: Working time of algorithm: 176610 mcs
+DFS: Working time of algorithm: 172669 mcs
+DSU: Working time of algorithm: 193577 mcs
+anylise10.0
+BFS: Working time of algorithm: 243617 mcs
+DFS: Working time of algorithm: 212200 mcs
+DSU: Working time of algorithm: 185266 mcs
+anylise10.1
+BFS: Working time of algorithm: 164743 mcs
+DFS: Working time of algorithm: 163113 mcs
+DSU: Working time of algorithm: 177334 mcs
+anylise10.2
+BFS: Working time of algorithm: 183129 mcs
+DFS: Working time of algorithm: 184604 mcs
+DSU: Working time of algorithm: 185027 mcs
+anylise10.3
+BFS: Working time of algorithm: 171568 mcs
+DFS: Working time of algorithm: 173328 mcs
+DSU: Working time of algorithm: 181278 mcs
